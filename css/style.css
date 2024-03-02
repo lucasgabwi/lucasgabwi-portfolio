@@ -223,6 +223,7 @@ header nav ul li {
     border-radius: 30px;
     transition: .2s;
     cursor: pointer;
+    border: none;
 }
 
 .projects-links button:hover {

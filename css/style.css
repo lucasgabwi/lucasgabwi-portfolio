@@ -223,7 +223,6 @@ header nav ul li {
     background-color: #5bb780;
     border-radius: 40px;
     position: relative;
-    left: 200px;
 }
 
 .img-port iframe {
@@ -243,7 +242,7 @@ header nav ul li {
     align-items: end;
     position: relative;
     bottom: -150px;
-    left: -250px;
+    left: -700px;
 }
 
 /* ESTILO DO FORMULARIO DE CONTATO */

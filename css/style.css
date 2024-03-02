@@ -217,32 +217,16 @@ header nav ul li {
     justify-content: space-around;
 }
 
-.img-port {
-    width: 360px;
-    height: 460px;
-    background-color: #5bb780;
+.porti-links {
     border-radius: 40px;
-    position: relative;
-}
-
-.img-port iframe {
-    border-radius: 40px;
+    background-color: #fff;
+    flex-direction: column;
     transition: .2s;
-    cursor: pointer;
 }
 
-.img-port iframe:hover {
+.porti-links:hover {
+    box-shadow: 0 0 0 40px #fff;
     transform: scale(1.05);
-    box-shadow: 0 0 0 4px #fff;
-}
-
-.porti-txt {
-    color: #5bb780;
-    display: flex;
-    align-items: end;
-    position: relative;
-    bottom: -150px;
-    left: -700px;
 }
 
 /* ESTILO DO FORMULARIO DE CONTATO */

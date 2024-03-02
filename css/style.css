@@ -218,15 +218,12 @@ header nav ul li {
 }
 
 .porti-links {
-    border-radius: 40px;
-    background-color: #fff;
     flex-direction: column;
-    transition: .2s;
 }
 
-.porti-links:hover {
-    box-shadow: 0 0 0 40px #fff;
-    transform: scale(1.05);
+.porti-links .insta-project-link {
+    background-color: #fff;
+    border-radius: 40px;
 }
 
 /* ESTILO DO FORMULARIO DE CONTATO */

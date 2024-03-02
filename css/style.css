@@ -341,12 +341,6 @@ footer > .interface > .logo-footer img {
         flex-direction: column-reverse;
     }
 
-    /* CABECALHO */
-    .menu-desktop,
-    .btn-contato {
-        display: none;
-    }
-
     /* TOPO DO SITE */
     .topo-site {
         padding: 20px 10%;

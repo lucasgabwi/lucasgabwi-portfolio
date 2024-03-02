@@ -217,6 +217,11 @@ header nav ul li {
     justify-content: space-around;
 }
 
+.projects-links img {
+    width: 500px;
+    height: auto;
+}
+
 .projects-links button {
     background-color: #5bb780;
     margin: 30px 15px 0 0;

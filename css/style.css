@@ -217,13 +217,15 @@ header nav ul li {
     justify-content: space-around;
 }
 
-.porti-links {
-    flex-direction: column;
+.projects-links button {
+    background-color: #5bb780;
+    border-radius: 30px;
+    transition: .2s;
+    cursor: pointer;
 }
 
-.porti-links .insta-project-link {
-    color: #fff;
-    border-radius: 40px;
+.projects-links button:hover {
+    transform: scale(1.05);
 }
 
 /* ESTILO DO FORMULARIO DE CONTATO */

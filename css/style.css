@@ -220,6 +220,8 @@ header nav ul li {
 .projects-links img {
     width: 500px;
     height: auto;
+    position: relative;
+    top: 200px;
 }
 
 .projects-links button {

@@ -361,4 +361,9 @@ footer > .interface > .logo-footer img {
     .sobre .img-sobre {
         padding: 150px 0 0 100px;
     }
+
+    .projects-links button {
+        position: relative;
+        top: 300px;
+    }
 }

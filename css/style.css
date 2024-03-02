@@ -219,6 +219,7 @@ header nav ul li {
 
 .projects-links button {
     background-color: #5bb780;
+    padding: 30px 15px;
     border-radius: 30px;
     transition: .2s;
     cursor: pointer;

@@ -323,6 +323,10 @@ footer > .interface > .logo-footer img {
     height: auto;
 }
 
+footer .line-footer p {
+    color: #fff;
+}
+
 /* RESPONSIVIDADE */
 @media screen and (max-width: 1020px) {
 

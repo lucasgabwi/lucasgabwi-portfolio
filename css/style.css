@@ -222,6 +222,7 @@ header nav ul li {
     height: auto;
     position: relative;
     top: 200px;
+    right: 150px;
 }
 
 .projects-links button {
